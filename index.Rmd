@@ -1,0 +1,50 @@
+---
+title: "My first notebook"
+author: Sarah Østrup Jensen
+date: 1 December 2022
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Heading 1
+This is just normal text. This is **bold**. This is *italics*.
+
+
+## Heading 2 {#markdown-header}
+A little text here
+
+### Heading 3
+More text here and [this is the link](#markdown-header)
+
+This is a link to an [Google](https://www.google.co.uk/?client=safari&channel=mac_bm)
+
+This text has a footnote[^1]
+
+[^1]: This is my footnote text
+
+1. Iten1
+2. Item2
+3. Item3
+    a. Item 3a
+        i. subitem
+4. Item4
+
+#Inserting images
+
+![PhD comics](img/image.png)
+
+I want to add a block here
+
+> Here is my block
+
+
+
+
+
+
+
+
+
+
